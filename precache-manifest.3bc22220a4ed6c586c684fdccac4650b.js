@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "01d9e473d49b0e3ce92d640f63aeea04",
+    "revision": "485032d0ba85872776cf7c6f3c9989ef",
     "url": "/webdev-coding-challenges/index.html"
   },
   {
-    "revision": "913b6995c331caaa85cd",
-    "url": "/webdev-coding-challenges/static/css/main.551b09e5.chunk.css"
+    "revision": "59b525fbeb15e88dbcc7",
+    "url": "/webdev-coding-challenges/static/css/main.9ef0bdc2.chunk.css"
   },
   {
-    "revision": "06a469087802432a7585",
-    "url": "/webdev-coding-challenges/static/js/2.b9aeee3a.chunk.js"
+    "revision": "2e27051033ee3b206bff",
+    "url": "/webdev-coding-challenges/static/js/2.fd1f264e.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/webdev-coding-challenges/static/js/2.b9aeee3a.chunk.js.LICENSE.txt"
+    "url": "/webdev-coding-challenges/static/js/2.fd1f264e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "913b6995c331caaa85cd",
-    "url": "/webdev-coding-challenges/static/js/main.f085661f.chunk.js"
+    "revision": "59b525fbeb15e88dbcc7",
+    "url": "/webdev-coding-challenges/static/js/main.1cebbd33.chunk.js"
   },
   {
     "revision": "c7cbbc1f4f27dbe6046c",
