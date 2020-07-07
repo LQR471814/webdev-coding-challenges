@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/webdev-coding-challenges/static/css/main.551b09e5.chunk.css",
+    "main.js": "/webdev-coding-challenges/static/js/main.f085661f.chunk.js",
+    "main.js.map": "/webdev-coding-challenges/static/js/main.f085661f.chunk.js.map",
+    "runtime-main.js": "/webdev-coding-challenges/static/js/runtime-main.17e4a3ad.js",
+    "runtime-main.js.map": "/webdev-coding-challenges/static/js/runtime-main.17e4a3ad.js.map",
+    "static/js/2.b9aeee3a.chunk.js": "/webdev-coding-challenges/static/js/2.b9aeee3a.chunk.js",
+    "static/js/2.b9aeee3a.chunk.js.map": "/webdev-coding-challenges/static/js/2.b9aeee3a.chunk.js.map",
+    "index.html": "/webdev-coding-challenges/index.html",
+    "precache-manifest.2e0ba16928b2b997012ff00c2164f26a.js": "/webdev-coding-challenges/precache-manifest.2e0ba16928b2b997012ff00c2164f26a.js",
+    "service-worker.js": "/webdev-coding-challenges/service-worker.js",
+    "static/css/main.551b09e5.chunk.css.map": "/webdev-coding-challenges/static/css/main.551b09e5.chunk.css.map",
+    "static/js/2.b9aeee3a.chunk.js.LICENSE.txt": "/webdev-coding-challenges/static/js/2.b9aeee3a.chunk.js.LICENSE.txt",
+    "static/media/Input.css": "/webdev-coding-challenges/static/media/opensans-regular-webfont.abba3dcd.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17e4a3ad.js",
+    "static/js/2.b9aeee3a.chunk.js",
+    "static/css/main.551b09e5.chunk.css",
+    "static/js/main.f085661f.chunk.js"
+  ]
+}
