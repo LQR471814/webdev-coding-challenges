@@ -1,0 +1,43 @@
+@font-face {
+    font-family: "OpenSansBold";
+    src: url('OpenSans/opensans-bold-webfont.woff2') format('woff2'),
+         url('OpenSans/opensans-bold-webfont.woff') format('woff');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "OpenSans";
+    src: url('OpenSans/opensans-regular-webfont.woff2') format('woff2'),
+         url('OpenSans/opensans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+}
+
+.Input {
+    margin: 5px;
+
+    padding-left: 10px;
+    
+    box-sizing: border-box;
+    border-radius:0.3em;
+    box-shadow: none;
+    min-height: 0.1px;
+    min-width: 10em;
+
+    font-weight:300;
+    font-family:"OpenSans", Arial,sans-serif;
+
+    border:0.15em solid #000000;
+
+    outline:none;
+    resize:none;
+
+    background-color: #c0c0c0;
+    /* background: linear-gradient(0deg, rgb(135, 255, 23) 0%, rgb(84, 226, 255) 90%); */
+}
+
+.LabelText {
+    color: #ffffff;
+    font-family: "OpenSansBold";
+
+    margin: 10px;
+}
