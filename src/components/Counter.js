@@ -84,6 +84,10 @@ class Counter extends React.Component {
     render () {
         return (
             <div>
+                <div style={{boxShadow: "1px 2px 5px 1px #1d1d1d", marginBottom: "10px", paddingBottom: "5px"}}>
+                    <span className="TitleText">A Counter</span>
+                </div>
+
                 <div style={{display: "flex"}}>
                     <div style={{display: "flex"}}>
                         <button className="ButtonAdd" onClick={this.handleButton}>{this.state.n}</button>
@@ -105,6 +109,8 @@ class Counter extends React.Component {
                         <span className="LabelText">{this.state.fibonacci}</span>
                     </div>
                 </div>
+
+                <span className="TipText">Tip: You can leave the number cap field empty and clicking apply will reset it to 10.</span>
             </div>
         );
     }

@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import Counter from './components/Counter';
 import * as serviceWorker from './serviceWorker';
+import './css/Input.css';
 
 ReactDOM.render(
   <React.StrictMode>
